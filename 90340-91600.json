@@ -1,0 +1,788 @@
+[
+    {
+        "id": "445",
+        "name": "Adra",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Adra",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2212",
+        "name": "Aguadulce (Almeria)",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Aguadulce (Almeria)",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1975",
+        "name": "Albanchez",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Albanchez",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1954",
+        "name": "Alcolea",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Alcolea",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2247",
+        "name": "Alcudia de Monteagudo",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Alcudia de Monteagudo",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1950",
+        "name": "Alhama de Almeria",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Alhama de Almeria",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1948",
+        "name": "Alicun",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Alicun",
+        "icon": "ui-city"
+    },
+    {
+        "id": "91600",
+        "name": "Almería (Todas las paradas)",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Almeria  Almeria Estacion Autobus",
+        "icon": "ui-city",
+        "stopsList": [
+            {
+                "id": "1600",
+                "name": "Almería Estación Autobús",
+                "provincecountryName": "Almeria, España",
+                "nameAutocomplete": "Almeria Estacion Autobus",
+                "icon": "ui-stop"
+            }
+        ]
+    },
+    {
+        "id": "5642",
+        "name": "Almeria (Universidad Laboral)",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Almeria (Universidad Laboral)",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1941",
+        "name": "Almocita",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Almocita",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1978",
+        "name": "Antas",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Antas",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2275",
+        "name": "Atochares",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Atochares",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5651",
+        "name": "Balanegra",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Balanegra",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5652",
+        "name": "Balerma",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Balerma",
+        "icon": "ui-city"
+    },
+    {
+        "id": "7612",
+        "name": "Balsicas",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Balsicas",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1940",
+        "name": "Beires",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Beires",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1713",
+        "name": "Benahadux",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Benahadux",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2049",
+        "name": "Benitagla",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Benitagla",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2050",
+        "name": "Benizalon",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Benizalon",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1952",
+        "name": "Berja",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Berja",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5713",
+        "name": "Cabañuelas",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Cabañuelas",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5674",
+        "name": "Cabo de Gata",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Cabo de Gata",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2266",
+        "name": "Campohermoso",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Campohermoso",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1943",
+        "name": "Canjayar",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Canjayar",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5417",
+        "name": "Celin Empalme",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Celin Empalme",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2248",
+        "name": "Chercos",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Chercos",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2252",
+        "name": "Chirivel",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Chirivel",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1974",
+        "name": "Cobdar",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Cobdar",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5687",
+        "name": "Cortijo de la Juana",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Cortijo de la Juana",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5682",
+        "name": "Cuatro Higueras",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Cuatro Higueras",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1739",
+        "name": "Cuevas del Almanzora",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Cuevas del Almanzora",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5732",
+        "name": "Dalias",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Dalias",
+        "icon": "ui-city"
+    },
+    {
+        "id": "3482",
+        "name": "El Ejido",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "El Ejido",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1959",
+        "name": "El Pilar",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "El Pilar",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1960",
+        "name": "El Puntal",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "El Puntal",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2222",
+        "name": "El Solanillo",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "El Solanillo",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2259",
+        "name": "El Viso (Alm)",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "El Viso (Alm)",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1971",
+        "name": "Empalme de Oria",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Empalme de Oria",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2256",
+        "name": "Empalme Retamar",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Empalme Retamar",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2277",
+        "name": "Fernan Perez",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Fernan Perez",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1957",
+        "name": "Fondon",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Fondon",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2051",
+        "name": "Fuente la Higuera",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Fuente la Higuera",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1956",
+        "name": "Fuente Victoria",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Fuente Victoria",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1951",
+        "name": "Gador",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Gador",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1474",
+        "name": "Garrucha",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Garrucha",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5781",
+        "name": "Guainos",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Guainos",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5785",
+        "name": "Guardias Viejas",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Guardias Viejas",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2234",
+        "name": "Hortichuelas Aguadulce",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Hortichuelas Aguadulce",
+        "icon": "ui-city"
+    },
+    {
+        "id": "7609",
+        "name": "Hortichuelas Campohermoso",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Hortichuelas Campohermoso",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2936",
+        "name": "Hospital de El Ejido",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Hospital de El Ejido",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5367",
+        "name": "Hospital Toyo",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Hospital Toyo",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1947",
+        "name": "Huecija",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Huecija",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1946",
+        "name": "Illar",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Illar",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1949",
+        "name": "Instincion",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Instincion",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2258",
+        "name": "Km 21 N-340",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Km 21 N-340",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5810",
+        "name": "La Curva",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "La Curva",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5811",
+        "name": "La Gangosa",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "La Gangosa",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5821",
+        "name": "La Redonda",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "La Redonda",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5935",
+        "name": "Lance de Virgen",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Lance de Virgen",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2278",
+        "name": "Las Negras",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Las Negras",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1955",
+        "name": "Laujar de Andarax",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Laujar de Andarax",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2249",
+        "name": "Lijar",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Lijar",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1715",
+        "name": "Los Gallardos",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Los Gallardos",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2271",
+        "name": "Los Gonzalez",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Los Gonzalez",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1958",
+        "name": "Lubrin",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Lubrin",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5842",
+        "name": "Matagorda",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Matagorda",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1475",
+        "name": "Mojácar",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Mojacar",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2267",
+        "name": "Nijar",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Nijar",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5860",
+        "name": "N-340 (E)",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "N-340 (E)",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1942",
+        "name": "Padules",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Padules",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2215",
+        "name": "Parrales-Parador",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Parrales-Parador",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2250",
+        "name": "Partaloa",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Partaloa",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5888",
+        "name": "Pozo de San Jose",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Pozo de San Jose",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5892",
+        "name": "Puebla de Vicar",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Puebla de Vicar",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2272",
+        "name": "Pueblo Blanco",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Pueblo Blanco",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5523",
+        "name": "Puente de Alcolea",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Puente de Alcolea",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5896",
+        "name": "Puente del Rio",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Puente del Rio",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2218",
+        "name": "Puerto Roquetas de Mar",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Puerto Roquetas de Mar",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5906",
+        "name": "Pujaire",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Pujaire",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1944",
+        "name": "Ragol",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Ragol",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5910",
+        "name": "Rambla Morales",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Rambla Morales",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2629",
+        "name": "Retamar (Urbanizacion)",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Retamar (Urbanizacion)",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1736",
+        "name": "Rioja",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Rioja",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2279",
+        "name": "Rodalquilar",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Rodalquilar",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2217",
+        "name": "Roquetas de Mar",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Roquetas de Mar",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5916",
+        "name": "Ruescas",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Ruescas",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2216",
+        "name": "Salinas (Almeria)",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Salinas (Almeria)",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2223",
+        "name": "San Agustin",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "San Agustin",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2262",
+        "name": "San Isidro",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "San Isidro",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5940",
+        "name": "Santa Maria del Aguila",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Santa Maria del Aguila",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2246",
+        "name": "Senes",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Senes",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1716",
+        "name": "Sorbas",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Sorbas",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1717",
+        "name": "Tabernas",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Tabernas",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2241",
+        "name": "Tahal",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Tahal",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1714",
+        "name": "Turre",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Turre",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1961",
+        "name": "Uleila Campo",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Uleila Campo",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2221",
+        "name": "Ur.Hoteles-Marinas",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Ur.Hoteles-Marinas",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1742",
+        "name": "V.Castaños",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "V.Castaños",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1741",
+        "name": "V.Chocolate",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "V.Chocolate",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1718",
+        "name": "Velez Rubio",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Velez Rubio",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5983",
+        "name": "Venta Cosario",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Venta Cosario",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5986",
+        "name": "Venta de Gutierrez",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Venta de Gutierrez",
+        "icon": "ui-city"
+    },
+    {
+        "id": "9287",
+        "name": "Venta de Pobre",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Venta de Pobre",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5998",
+        "name": "Venta del Viso",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Venta del Viso",
+        "icon": "ui-city"
+    },
+    {
+        "id": "5548",
+        "name": "Venta Nueva (Almeria)",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Venta Nueva (Almeria)",
+        "icon": "ui-city"
+    },
+    {
+        "id": "2606",
+        "name": "Venta Pampanico",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Venta Pampanico",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1473",
+        "name": "Vera ( Almería )",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "Vera ( Almeria )",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1953",
+        "name": "V.Llana",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "V.Llana",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1737",
+        "name": "V.Lorquino",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "V.Lorquino",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1945",
+        "name": "V.Pavon",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "V.Pavon",
+        "icon": "ui-city"
+    },
+    {
+        "id": "1962",
+        "name": "V.Yesos",
+        "provincecountryName": "Almeria, España",
+        "nameAutocomplete": "V.Yesos",
+        "icon": "ui-city"
+    }
+]

@@ -1,0 +1,234 @@
+{
+    "36.29": [
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "Berja",
+            "fechaIda": "09/08/2021 09:00",
+            "fechaLlegada": "09/08/2021 18:30"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "Berja",
+            "fechaIda": "10/08/2021 09:00",
+            "fechaLlegada": "10/08/2021 18:30"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "Berja",
+            "fechaIda": "11/08/2021 09:00",
+            "fechaLlegada": "11/08/2021 18:30"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "Berja",
+            "fechaIda": "12/08/2021 09:00",
+            "fechaLlegada": "12/08/2021 18:30"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "Berja",
+            "fechaIda": "13/08/2021 09:00",
+            "fechaLlegada": "13/08/2021 18:30"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "Berja",
+            "fechaIda": "14/08/2021 09:00",
+            "fechaLlegada": "14/08/2021 18:30"
+        }
+    ],
+    "34.2": [
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "Chirivel",
+            "fechaIda": "05/09/2021 09:00",
+            "fechaLlegada": "05/09/2021 15:00"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "Chirivel",
+            "fechaIda": "06/09/2021 09:00",
+            "fechaLlegada": "06/09/2021 15:00"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "Chirivel",
+            "fechaIda": "07/09/2021 09:00",
+            "fechaLlegada": "07/09/2021 15:00"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "Chirivel",
+            "fechaIda": "08/09/2021 09:00",
+            "fechaLlegada": "08/09/2021 15:00"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "Chirivel",
+            "fechaIda": "09/09/2021 09:00",
+            "fechaLlegada": "09/09/2021 15:00"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "Chirivel",
+            "fechaIda": "10/09/2021 09:00",
+            "fechaLlegada": "10/09/2021 15:00"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "Chirivel",
+            "fechaIda": "11/09/2021 09:00",
+            "fechaLlegada": "11/09/2021 15:00"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "Chirivel",
+            "fechaIda": "12/09/2021 09:00",
+            "fechaLlegada": "12/09/2021 15:00"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "Chirivel",
+            "fechaIda": "13/09/2021 09:00",
+            "fechaLlegada": "13/09/2021 15:00"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "Chirivel",
+            "fechaIda": "14/09/2021 09:00",
+            "fechaLlegada": "14/09/2021 15:00"
+        }
+    ],
+    "33.76": [
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "Cortijo de la Juana",
+            "fechaIda": "18/09/2021 09:00",
+            "fechaLlegada": "18/09/2021 17:45"
+        }
+    ],
+    "35.83": [
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "El Ejido",
+            "fechaIda": "01/10/2021 08:00",
+            "fechaLlegada": "01/10/2021 15:50"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "El Ejido",
+            "fechaIda": "02/10/2021 08:00",
+            "fechaLlegada": "02/10/2021 15:50"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "El Ejido",
+            "fechaIda": "03/10/2021 08:00",
+            "fechaLlegada": "03/10/2021 15:50"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "El Ejido",
+            "fechaIda": "04/10/2021 08:00",
+            "fechaLlegada": "04/10/2021 15:50"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "El Ejido",
+            "fechaIda": "05/10/2021 08:00",
+            "fechaLlegada": "05/10/2021 15:50"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "El Ejido",
+            "fechaIda": "06/10/2021 08:00",
+            "fechaLlegada": "06/10/2021 15:50"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "El Ejido",
+            "fechaIda": "07/10/2021 08:00",
+            "fechaLlegada": "07/10/2021 15:50"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "El Ejido",
+            "fechaIda": "08/10/2021 08:00",
+            "fechaLlegada": "08/10/2021 15:50"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "El Ejido",
+            "fechaIda": "09/10/2021 08:00",
+            "fechaLlegada": "09/10/2021 15:50"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "El Ejido",
+            "fechaIda": "10/10/2021 08:00",
+            "fechaLlegada": "10/10/2021 15:50"
+        }
+    ],
+    "35.89": [
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "El Ejido",
+            "fechaIda": "01/10/2021 15:00",
+            "fechaLlegada": "01/10/2021 21:35"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "El Ejido",
+            "fechaIda": "02/10/2021 15:00",
+            "fechaLlegada": "02/10/2021 21:35"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "El Ejido",
+            "fechaIda": "03/10/2021 15:00",
+            "fechaLlegada": "03/10/2021 21:35"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "El Ejido",
+            "fechaIda": "04/10/2021 15:00",
+            "fechaLlegada": "04/10/2021 21:35"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "El Ejido",
+            "fechaIda": "05/10/2021 15:00",
+            "fechaLlegada": "05/10/2021 21:35"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "El Ejido",
+            "fechaIda": "06/10/2021 15:00",
+            "fechaLlegada": "06/10/2021 21:35"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "El Ejido",
+            "fechaIda": "07/10/2021 15:00",
+            "fechaLlegada": "07/10/2021 21:35"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "El Ejido",
+            "fechaIda": "08/10/2021 15:00",
+            "fechaLlegada": "08/10/2021 21:35"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "El Ejido",
+            "fechaIda": "09/10/2021 15:00",
+            "fechaLlegada": "09/10/2021 21:35"
+        },
+        {
+            "lugarIda": "Sevilla (Plaza de Armas)",
+            "lugarLlegada": "El Ejido",
+            "fechaIda": "10/10/2021 15:00",
+            "fechaLlegada": "10/10/2021 21:35"
+        }
+    ]
+}
